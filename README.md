@@ -5,7 +5,9 @@ Actividades:
 - Apliqué técnicas de selección y extracción de características, modelos de regresión, para proponer dos soluciones.
 - Analicé y modifiqué el proceso de producción en PiSA para reducir el tiempo de producción un 5\%.
 
-### Proyecto NOVUS
+### Proyecto NOVUS 
+<!-- https://github.com/Amm521/Portfolio_data_science/blob/main/Ajuste_de_redes_neuronales_y_reducci%C3%B3n_de_dimensionalidad.ipynb -->
+
 Actividades:
 - Limpié datos de un EEG de una interfaz cerebro-computadora y usé los datos con sensibilidad mayor al 70\%.
 - Entrené modelos como SVM, KNN, etc, y usé validación cruzada para ajustar hiper-parámetros.
